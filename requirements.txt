@@ -1,0 +1,7 @@
+plotly
+numpy
+pandas
+streamlit
+aiohttp
+requests
+streamlit-plotly-events
